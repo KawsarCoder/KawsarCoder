@@ -3,8 +3,14 @@
 <h1 align="center">Hi 👋, I'm Md. Kawsar</h1>
 <h3 align="center">A passionate MERN Stack Web developer from Bangladesh</h3>
 <!-- <img align="right" alt="Coding" width=10% src="https://camo.githubusercontent.com/61491d59e71fec5c794945fed916a4a682b6c0404fc31f30b08a0d919c558404/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966"> -->
- 
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kawsarcoder&label=Profile%20views&color=0e75b6&style=flat" alt="kawsarcoder" /> </p>
+
+
+✒️ <b>About me: </b>
+<p>It's me MD. Kawsar. Since 2022, I am working with HTML5, CSS3, Bootstrap, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, and so on. I am an experienced programmer who can find creative solutions to technical challenges, whilst
+at the same time designing sleek and visually appealing websites. I have knowledge of
+recognized technical standards and am familiar with modern build practices. Right now, I am passionate about working with the brightest and the best in the field of web development.</p><br/> <br/> <br/>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kawsarcoder" alt="kawsarcoder" /></a> </p>
 
@@ -16,7 +22,7 @@
 
 - 📫 How to reach me **md.kawsar.developer@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1AIPqvualke4ee-eWfKJDv8KJVHp9teXt5WiDMsNLjFg/edit?usp=share_link](https://docs.google.com/document/d/1AIPqvualke4ee-eWfKJDv8KJVHp9teXt5WiDMsNLjFg/edit?usp=share_link)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1AIPqvualke4ee-eWfKJDv8KJVHp9teXt5WiDMsNLjFg/edit?usp=share_link](https://drive.google.com/file/d/1BMPBcsUZTnErZStN3zY4qZcNr85MOQry/view?usp=sharing)
 
 - ⚡ Fun fact **I love to fun & do poetry**
 
