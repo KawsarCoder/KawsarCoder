@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kawsarcoder&show_icons=true&locale=en&layout=compact" alt="kawsarcoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kawsarcoder&show_icons=true&locale=en" alt="kawsarcoder" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=kawsarcoder&show_icons=true&locale=en" alt="kawsarcoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kawsarcoder&" alt="kawsarcoder" /></p>
