@@ -8,7 +8,7 @@
 
 
 ✒️ <b>About me: </b>
-<p>It's me MD. Kawsar. Since 2022, I am working with HTML5, CSS3, Bootstrap, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, and so on. I am an experienced programmer who can find creative solutions to technical challenges, whilst
+<p>It's me MD. Kawsar. Since 2021, I am working with HTML5, CSS3, Bootstrap, JS, ReactJS, Tailwind, NodeJS, ExpressJS, MongoDB, and so on. I am an experienced programmer who can find creative solutions to technical challenges, whilst
 at the same time designing sleek and visually appealing websites. I have knowledge of
 recognized technical standards and am familiar with modern build practices. Right now, I am passionate about working with the brightest and the best in the field of web development.</p><br/> <br/> <br/>
 
