@@ -16,7 +16,7 @@ recognized technical standards and am familiar with modern build practices. Righ
 
 - 🌱 I’m currently learning **Redux**
 
-- 👨‍💻 All of my projects are available at [https://my-portfolio-a636d.web.app/](https://my-portfolio-a636d.web.app/)
+- 👨‍💻 All of my projects are available at [https://md-kawsar.netlify.app/](https://md-kawsar.netlify.app/)
 
 - 💬 Ask me about **JS, MERN**
 
